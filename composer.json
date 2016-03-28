@@ -1,5 +1,5 @@
 {
-    "minimun-stability": "dev",
+    "minimum-stability": "dev",
     "require": {
         "yay/yay": "dev-master"
     }
