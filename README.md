@@ -10,9 +10,9 @@ cd yay-enums
 composer install
 
 # run it!
-php enum.tests.php
+php test.php
 ```
 
-Please, read [enum.tests.php](https://github.com/marcioAlmada/yay-enums/blob/master/enum.tests.php) to see how it works.
+Please, read [enum.tests.php](https://github.com/marcioAlmada/yay-enums/blob/master/enum.tests.php) to see the specs.
 
 This is inspired by the ["Enumerated Types"](https://wiki.php.net/rfc/enum) RFC.
